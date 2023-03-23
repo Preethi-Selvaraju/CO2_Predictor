@@ -7,5 +7,6 @@ PyPDF2
 pandas
 streamlit
 netCDF4
+tensorflow
 streamlit_folium
 scikit-learn
