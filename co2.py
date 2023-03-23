@@ -8,7 +8,6 @@ Created on Thu Mar 16 17:23:20 2023
 import requests, time, random, datetime,ftplib
 from datetime import date
 import base64
-import tensorflow
 import os, re, matplotlib
 from reportlab.pdfgen import canvas
 from reportlab.lib import utils
